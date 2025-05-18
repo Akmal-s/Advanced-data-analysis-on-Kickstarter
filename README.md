@@ -38,4 +38,4 @@ This dashboard acts as a strategic tool for campaign creators, investors, and an
 
 
 
-preview : [Dashboard](
+preview : ![Dashboard](https://github.com/Akmal-s/Power-BI-crowdfunding/blob/main/Kickstarter_Crowdfunding_power_BI.png)
