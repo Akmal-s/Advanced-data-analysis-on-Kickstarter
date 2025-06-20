@@ -37,7 +37,7 @@ KPI Highlights: Clear cards at the top for quick scanning of key metrics (projec
 This dashboard acts as a strategic tool for campaign creators, investors, and analysts by identifying the best-performing categories, optimal campaign timing, and high-engagement regions. It supports better planning, more targeted marketing, and smarter funding decisions—turning raw data into actionable crowdfunding intelligence.
 
 
-[Kickstarter Crowdfunding - Power BI - Download](https://drive.google.com/file/d/1eTWXNM8hBBdW7JQvSmM6udzKNoVPGlLC/view?usp=sharing)
+
 
 
 
