@@ -1,42 +1,46 @@
-## 🟢 Kickstarter Crowdfunding Dashboard (Power BI)
-A dynamic Power BI dashboard designed to uncover deep insights into Kickstarter campaign performance across categories, countries, and time—empowering creators, backers, and analysts with data-driven decision-making.
+## 🟢 Kickstarter Crowdfunding Analysis – Power BI Dashboard
+This project visualizes and analyzes crowdfunding trends on the Kickstarter platform, using data from over 3.65 lakh projects. The dashboard was built to uncover key insights into campaign success, backer engagement, category performance, and regional trends.
 
-## 📝 Short Description
-This Power BI project visualizes crowdfunding data from Kickstarter to reveal patterns in campaign success, backer engagement, pledged amounts, and category performance. The dashboard is built with interactive filters and sleek visuals, allowing users to slice data by country, category, and year, while keeping key KPIs front and center.
+## 🔍 Objective
+To help creators, investors, and analysts make data-driven decisions by identifying what makes a Kickstarter campaign successful—across time, categories, and countries.
 
-## ⚙️ Tech Stack
-📊 Power BI – Core platform for building interactive dashboards and visuals
-📁 File Formats – .pbix (Power BI Desktop), .png for presentation snapshots
+## ⚙️ Tools & Technologies
+Excel – Data cleaning and formatting
 
-# 🌟 Features / Highlights
+SQL – Exploratory Data Analysis (EDA)
 
-## 🛠️ Business Problem
-Many Kickstarter creators struggle to understand what drives campaign success—resulting in failed projects, unrealistic funding goals, and inefficient audience targeting. A lack of clarity around geographic trends, top-performing categories, and seasonal timing can hinder campaign performance and investor confidence.
+Power BI – Data modeling and dashboard development
 
-## 🎯 Goal of the Project
-To deliver an intuitive, interactive Power BI dashboard that reveals success patterns across project types, locations, and timelines—enabling stakeholders to launch smarter campaigns, identify investment-worthy trends, and make evidence-based strategic decisions.
+## 📊 Key Features
+Dynamic filters by country, category, and year
 
-## 📈 Key KPIs & Performance Insights
-This dashboard tracks over 3,65,000 Kickstarter projects, highlighting that only 38.35% reached their funding goals, with over 1.88 lakh projects failing. A massive $3.86 billion was pledged by 44.52 million backers, underscoring the platform’s global influence.
+KPI cards for quick metrics (projects, success rate, backers, funding)
 
-Campaign success was highest between 2011 and 2013, with success rates peaking at 45%. However, a noticeable dip followed in 2014–2016. In 2018, despite only 37K projects, the success rate rebounded to 44%.
+## Visual breakdown of:
 
-By pledged funds, Pebble Time alone secured over $20M, making it the most-funded project. Other top performers like COOLEST Cooler and Kingdom Death raised over $12M each. In terms of backers, Exploding Kittens led with 219K supporters, showing the power of viral appeal and community backing.
+Top projects by backers and pledged amount
 
-The Product Design and Tabletop Games categories dominated by volume, with over 22.3K and 15.6K projects respectively. Geographically, the United States far surpassed other countries, launching over 2.67 lakh projects, followed by the UK and Canada with 32K+ and 14K+, respectively.
+Year-wise trends and success percentages
 
-## 🧩 Interactive Features
+Country-wise activity and performance
 
-Custom Filters: Instantly segment data by country, category, and year to explore success trends
+Category-wise project counts
 
-Visual Storytelling: Rich mix of bar charts, donut charts, to enhance data clarity
+## 💡 Insights Discovered
+Only 38.35% of projects reached their funding goals
 
-KPI Highlights: Clear cards at the top for quick scanning of key metrics (projects count, success rate, backers, pledged amount)
+Over $3.86 billion pledged by 44.52 million backers
 
-## 💼 Business Impact & Insights
-This dashboard acts as a strategic tool for campaign creators, investors, and analysts by identifying the best-performing categories, optimal campaign timing, and high-engagement regions. It supports better planning, more targeted marketing, and smarter funding decisions—turning raw data into actionable crowdfunding intelligence.
+US led with 267K+ projects, followed by UK and Canada
+
+Product Design and Tabletop Games topped the categories
+
+Pebble Time raised the most funds ($20.3M); Exploding Kittens had the most backers (219K)
 
 
+
+## 📈 Business Impact
+Empowers campaign creators to optimize launch timing, choose the right category, and target the right regions—drastically improving success rates and funding outcomes.
 
 
 
